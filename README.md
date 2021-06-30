@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, I'm Abu Dzar Al Ghifari!
 
-<!--
-**abudzr/abudzr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Gmail Badge](https://img.shields.io/badge/-abudzaralghifari8@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:abudzaralghifari8@gmail.com)](mailto:abudzaralghifari8@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-chaerulmarwan-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abu-dzar-alghifari)](https://www.linkedin.com/in/abu-dzar-alghifari)
+<!-- [![Github Badge](https://img.shields.io/badge/-chaerulmarwan20-grey?style=flat&logo=github&logoColor=white&link=https://github.com/chaerulmarwan20/)](https://www.github.com/chaerulmarwan20/) -->
+<!-- [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://booking-tickitz-film.netlify.app/)](https://booking-tickitz-film.netlify.app/)
+[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://zwallet-banking.vercel.app/)](https://zwallet-banking.vercel.app/) -->
 
-Here are some ideas to get you started:
+<p align='left'>A  Full Stack Website Developer with ReactJs, NodeJs & ExpressJs background to develop a web application. I'm a person who is able to work in a team or individually, can adapt to new environments, and i'm interest in the development of technological advances.
+.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Some of my Github Stats
+
+<p align=left> <img src=https://komarev.com/ghpvc/?username=abudzr alt=abudzr /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=abudzr&show_icons=true&include_all_commits=true)](https://github.com/abudzr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abudzr&layout=compact)](https://github.com/abudzr/github-readme-stats)
