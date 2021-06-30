@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Abu Dzar Al Ghifari!
 
 [![Gmail Badge](https://img.shields.io/badge/-abudzaralghifari8@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:abudzaralghifari8@gmail.com)](mailto:abudzaralghifari8@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-chaerulmarwan-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abu-dzar-alghifari)](https://www.linkedin.com/in/abu-dzar-alghifari)
+[![Linkedin Badge](https://img.shields.io/badge/-abu-dzar-al-ghifari-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abu-dzar-alghifari)](https://www.linkedin.com/in/abu-dzar-alghifari)
 <!-- [![Github Badge](https://img.shields.io/badge/-chaerulmarwan20-grey?style=flat&logo=github&logoColor=white&link=https://github.com/chaerulmarwan20/)](https://www.github.com/chaerulmarwan20/) -->
 <!-- [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://booking-tickitz-film.netlify.app/)](https://booking-tickitz-film.netlify.app/)
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://zwallet-banking.vercel.app/)](https://zwallet-banking.vercel.app/) -->
